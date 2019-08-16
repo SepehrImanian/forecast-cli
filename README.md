@@ -13,7 +13,7 @@ simple command line app for weather forecast
 # Installation
 
 ```bash
-npm install @sepehrimanian/simplecli --save
+npm install -g @sepehrimanian/simplecli
 ```
 
 # Examples
