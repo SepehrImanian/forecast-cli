@@ -59,4 +59,4 @@ outside today -l somewhere
 
 # Licensing
 
-[MIT](/blob/master/LICENSE)
+[MIT](https://github.com/SepehrImanian/SimpleCLI/blob/master/LICENSE)
