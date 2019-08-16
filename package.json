@@ -1,7 +1,7 @@
 {
-  "name": "test_cli",
+  "name": "@sepehrimanian/simplecli",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple command line app for weather forecast",
   "main": "index.js",
   "bin": {
     "outside": "bin/outside"
@@ -15,5 +15,15 @@
     "axios": "^0.18.0",
     "minimist": "^1.2.0",
     "ora": "^3.4.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SepehrImanian/SimpleCLI.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/SepehrImanian/SimpleCLI/issues"
+  },
+  "homepage": "https://github.com/SepehrImanian/SimpleCLI#readme"
 }
