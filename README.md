@@ -10,13 +10,13 @@ simple command line app for weather forecast
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Installation
+## Installation
 
 ```bash
 npm install -g @sepehrimanian/simplecli
 ```
 
-# Examples
+## Examples
 
 for version of app:
 
@@ -57,6 +57,6 @@ for speciation location using **--location** or **-l**:
 outside today -l somewhere
 ```
 
-# Licensing
+## Licensing
 
 [MIT](https://github.com/SepehrImanian/SimpleCLI/blob/master/LICENSE)
