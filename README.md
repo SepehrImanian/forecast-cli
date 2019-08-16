@@ -4,6 +4,7 @@ simple command line app for weather forecast
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [SimpleCLI](#simplecli)
 - [Installation](#installation)
 - [Examples](#examples)
 - [Licensing](#licensing)
@@ -59,4 +60,4 @@ outside today -l somewhere
 
 # Licensing
 
-[MIT](/LICENSE.md)
+[MIT](/blob/master/LICENSE)
