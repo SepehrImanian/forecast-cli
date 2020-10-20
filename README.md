@@ -1,4 +1,4 @@
-# FcommandCLI
+# ForecastCLI
 command line app for weather forecast
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
